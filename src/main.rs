@@ -1,7 +1,6 @@
 // Modular Embedded Rust Executive (MERE)
-//
-// By: Sina Tashakkori, QVLx Labs
-//
+// $t@$h     QVLx Labs
+
 mod exec;
 use exec::Executive;
 mod pkt;
